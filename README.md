@@ -1,6 +1,18 @@
 # NodeMCU-8266-WiFI-Evil-Jammer-Xploit
-Deauth attack to disconnect devices from WiFi Evil Twin AP to capture passwords
+# Deauth attack to disconnect devices from WiFi Evil Twin AP to capture passwords
 No toggling - both attacks can run together Flash using NodeMCU or upload via Arduino IDE. 
+
+
+![hq720 (2)](https://github.com/user-attachments/assets/f9b79381-0cdf-4be1-9f60-298fa126534d)
+
+
+![logo](https://github.com/user-attachments/assets/5df8e898-dd68-469a-8b65-a1e4c16c7a43)
+
+
+
+
+
+
 
 
 🚀 Features
@@ -56,9 +68,9 @@ Click Flash
 
 
 
-#Default WiFi: PhiSiFi_OnFire
+# Default WiFi : PhiSiFi_OnFire
 
-#Password: 244466666x 
+# Password : 244466666x 
 
 Admin Panel: 192.168.4.1/admin 
 
