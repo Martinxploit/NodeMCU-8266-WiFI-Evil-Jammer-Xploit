@@ -36,6 +36,10 @@ Once a correct password is entered, you'll see:
 
 
 
+Connect to the AP named WiPhi_34732 with password d347h320 from your phone/PC.
+
+
+
 
 
 
