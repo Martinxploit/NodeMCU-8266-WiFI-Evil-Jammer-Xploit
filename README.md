@@ -35,8 +35,7 @@ Connect to the fake AP and wait for password capture
 Once a correct password is entered, you'll see:
 
 
-
-Connect to the AP named WiPhi_34732 with password d347h320 from your phone/PC.
+# PhiSiFi-pub.ino.generic.bin file Connect to the AP named WiPhi_34732 with password d347h320 from your phone/PC.
 
 
 
